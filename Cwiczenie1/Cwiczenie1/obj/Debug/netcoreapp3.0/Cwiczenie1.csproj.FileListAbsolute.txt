@@ -1,0 +1,10 @@
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\bin\Debug\netcoreapp3.0\Cwiczenie1.exe
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\bin\Debug\netcoreapp3.0\Cwiczenie1.deps.json
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\bin\Debug\netcoreapp3.0\Cwiczenie1.runtimeconfig.json
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\bin\Debug\netcoreapp3.0\Cwiczenie1.runtimeconfig.dev.json
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\bin\Debug\netcoreapp3.0\Cwiczenie1.dll
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\bin\Debug\netcoreapp3.0\Cwiczenie1.pdb
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\obj\Debug\netcoreapp3.0\Cwiczenie1.AssemblyInfoInputs.cache
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\obj\Debug\netcoreapp3.0\Cwiczenie1.AssemblyInfo.cs
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\obj\Debug\netcoreapp3.0\Cwiczenie1.dll
+D:\MHO\CS\Lab1\Mateusz_Orzech_lab_4\Cwiczenie1\Cwiczenie1\obj\Debug\netcoreapp3.0\Cwiczenie1.pdb
