@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\student210.AUTOLAB2\\.nuget\\packages\\": {}
+    "C:\\Users\\Mateusz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MHO\\CS\\Lab1\\Mateusz_Orzech_lab_4\\Cwiczenie1\\Cwiczenie1\\Cwiczenie1.csproj",
+      "projectUniqueName": "D:\\Studia\\SiSzarp\\GIT\\Mateusz_Orzech_lab_4\\Cwiczenie1\\Cwiczenie1\\Cwiczenie1.csproj",
       "projectName": "Cwiczenie1",
-      "projectPath": "D:\\MHO\\CS\\Lab1\\Mateusz_Orzech_lab_4\\Cwiczenie1\\Cwiczenie1\\Cwiczenie1.csproj",
-      "packagesPath": "C:\\Users\\student210.AUTOLAB2\\.nuget\\packages\\",
-      "outputPath": "D:\\MHO\\CS\\Lab1\\Mateusz_Orzech_lab_4\\Cwiczenie1\\Cwiczenie1\\obj\\",
+      "projectPath": "D:\\Studia\\SiSzarp\\GIT\\Mateusz_Orzech_lab_4\\Cwiczenie1\\Cwiczenie1\\Cwiczenie1.csproj",
+      "packagesPath": "C:\\Users\\Mateusz\\.nuget\\packages\\",
+      "outputPath": "D:\\Studia\\SiSzarp\\GIT\\Mateusz_Orzech_lab_4\\Cwiczenie1\\Cwiczenie1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\student210.AUTOLAB2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mateusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
