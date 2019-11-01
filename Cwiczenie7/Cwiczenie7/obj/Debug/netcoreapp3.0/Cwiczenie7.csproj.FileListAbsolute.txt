@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\bin\Debug\netcoreapp3.0\Cwiczenie7.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\bin\Debug\netcoreapp3.0\Cwiczenie7.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\bin\Debug\netcoreapp3.0\Cwiczenie7.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\bin\Debug\netcoreapp3.0\Cwiczenie7.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\bin\Debug\netcoreapp3.0\Cwiczenie7.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\bin\Debug\netcoreapp3.0\Cwiczenie7.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\obj\Debug\netcoreapp3.0\Cwiczenie7.csprojAssemblyReference.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\obj\Debug\netcoreapp3.0\Cwiczenie7.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\obj\Debug\netcoreapp3.0\Cwiczenie7.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\obj\Debug\netcoreapp3.0\Cwiczenie7.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_4\Cwiczenie7\Cwiczenie7\obj\Debug\netcoreapp3.0\Cwiczenie7.pdb
