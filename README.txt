@@ -1,1 +1,1 @@
-Jeszcze nie skonczone
+Skonczone
